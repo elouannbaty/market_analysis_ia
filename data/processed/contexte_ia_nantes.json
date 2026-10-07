@@ -1,0 +1,56 @@
+{
+    "commune": "NANTES",
+    "marche": {
+        "etablissements_total": 5350,
+        "etablissements_actifs": 1782,
+        "etablissements_fermes": 3568,
+        "entreprises": 4915,
+        "etablissements_pour_1000_habitants": 16.32,
+        "actifs_pour_1000_habitants": 5.44,
+        "taux_fermeture_historique": 66.69
+    },
+    "territoire": {
+        "population_2023": 327734.0,
+        "densite_2023": 5027.4,
+        "niveau_vie_median": 26720.0
+    },
+    "dynamique": {
+        "periode": "2022-2025",
+        "creations": 776.0,
+        "fermetures": 709.0,
+        "solde": 67.0,
+        "solde_pour_1000_habitants": 0.2044340837386417
+    },
+    "categories": {
+        "restaurant": {
+            "creations": 232,
+            "fermetures": 237,
+            "solde": -5,
+            "solde_pour_1000_habitants": -0.02
+        },
+        "restauration_rapide": {
+            "creations": 406,
+            "fermetures": 371,
+            "solde": 35,
+            "solde_pour_1000_habitants": 0.11
+        },
+        "cafes_bars": {
+            "creations": 138,
+            "fermetures": 101,
+            "solde": 37,
+            "solde_pour_1000_habitants": 0.11
+        }
+    },
+    "concurrence": {
+        "hhi": 6.1,
+        "cr5_pct": 1.01,
+        "cr10_pct": 1.68
+    },
+    "signaux": {
+        "niveau_offre": "Forte",
+        "dynamique_marche": "Forte",
+        "profil_marche": "Forte / Forte",
+        "concentration": "Faible",
+        "segment_dominant_dynamique": "Café et bar"
+    }
+}
